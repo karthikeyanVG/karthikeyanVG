@@ -28,5 +28,7 @@
 
 <h3 align="left">Support:</h3>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karthikeyanvg&show_icons=true&locale=en&layout=compact" alt="karthikeyanvg" /></p>
+
 
 
