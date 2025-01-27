@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [http://karthikeyan-portfolioo.herokuapp.com/](http://karthikeyan-portfolioo.herokuapp.com/)
+- 👨‍💻 All of my projects are available at [https://karthikeyan-portfolioo.netlify.app/](https://karthikeyan-portfolioo.netlify.app/)
 
 - 💬 Ask me about **react js, node js, javascript.**
 
